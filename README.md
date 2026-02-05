@@ -1,6 +1,6 @@
 # Coursera – Introduction to Git and GitHub (Google)
 
-This repository documents my hands-on progress while following the
+This repository documents our hands-on progress while following the
 **"Introduction to Git and GitHub"** course by Google on Coursera.
 
 The repository is used to practice version control concepts through
