@@ -1,0 +1,5 @@
+The video explains why version control is important in IT and software development. Scripts, configuration files, and system settings change over time as systems grow and new requirements are introduced. Keeping a history of these changes helps administrators understand what was modified, when it happened, and why, which makes troubleshooting and maintenance easier.
+
+The video gives an example where a new feature added to a system health check causes unexpected problems on many computers. Instead of rushing quick fixes, version control allows developers to roll back to a previous working version while taking time to properly test and fix the issue. This reduces errors and prevents repeated emergency updates.
+
+The video also introduces Git as a tool that helps track changes and support collaboration. Learners are reassured that Git will be taught step by step, starting with installation and basic workflows, to help them manage code changes with confidence.
