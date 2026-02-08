@@ -1,0 +1,5 @@
+The video describes how people often manage changes before learning proper version control. Many developers create copies of their work so they can return to an earlier version, email files back and forth in a team, or save full backups before deleting major sections. These methods help preserve older versions and show how a project has evolved over time.
+
+This approach is described as a primitive form of version control because it is manual and inefficient. It requires remembering to make copies, usually duplicates the entire project even when only small changes are made, and makes it difficult to track who made a change and why. Despite these limitations, the basic idea is still the same as modern version control, keeping a history of changes that can be reviewed or restored.
+
+The video then explains that version control systems like Git improve on this idea by tracking changes more clearly and supporting collaboration. Git can be used with many types of files and allows users to compare different versions, revert changes, and work together more effectively.
